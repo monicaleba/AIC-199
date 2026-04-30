@@ -8,7 +8,7 @@ AIC-199 is a curated, feature-extracted dataset designed to support research on 
 
 The dataset was constructed and used as the experimental basis for the paper:
 
-> M. Leba, *"Quality-Informed Neural Networks (QINN): A Framework for Encoding QFD Principles into Deep Learning for Detection of AI Algorithm Elements in Application Code"*, submitted to MDPI Systems, 2025.
+> A. Ionica, M. Leba, *"From House of Quality to Neural Architecture: Quality-Informed Neural Networks for Interpretable Classification, with an EU AI Act Compliance Application"*, submitted to MDPI Systems, 2026.
 
 It is released as a standalone research resource to support reproducibility and to serve as a benchmark for future work on software classification, AI governance tooling, and EU AI Act compliance instrumentation.
 
@@ -93,9 +93,9 @@ If you use this dataset, please cite:
 ```bibtex
 @article{IonicaLeba2026qinn,
   author  = {Ionica, Andreea; Leba, Monica},
-  title   = {Quality-Informed Neural Networks (QINN): A Framework for Encoding
-             QFD Principles into Deep Learning for Detection of AI Algorithm
-             Elements in Application Code},
+  title   = {From House of Quality to Neural Architecture:
+            Quality-Informed Neural Networks for Interpretable Classification, 
+            with an EU AI Act Compliance Application},
   journal = {MDPI Systems},
   year    = {2026},
   note    = {Manuscript under review}
