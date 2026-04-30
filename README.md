@@ -67,13 +67,15 @@ Features x₂₆ and x₂₇ (Group F) are new additions introduced to correctly
 ---
 
 ## File Structure
+```
 AIC-199_Dataset.xlsx
-├── Feature Collection   — 199 rows × 64 columns: app metadata, raw feature values,
-│                          normalised features (x₁–x₂₇), QFD flat score, and QINN output
-├── Features             — Feature changelog: definitions, revision notes for x₁₁, x₁₂,
-│                          x₁₆, x₁₉, and new features x₂₆–x₂₇
+├── Feature Collection      — 199 rows × 64 columns: app metadata, raw feature values,
+│                             normalised features (x₁–x₂₇), QFD flat score, and QINN output
+├── Features                — Feature changelog: definitions, revision notes for x₁₁, x₁₂,
+│                             x₁₆, x₁₉, and new features x₂₆–x₂₇
 └── Weights & Score Summary — 27-feature weight table (wᵢ), expected score distribution
-at θ = 0.15, and classification boundary analysis
+                              at θ = 0.15, and classification boundary analysis
+```
 
 ---
 
